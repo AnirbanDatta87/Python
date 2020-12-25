@@ -1,0 +1,29 @@
+.ipynb_checkpoints/
+/sketchify
+/Web
+/Resources
+*.log
+
+# Data ------------
+
+*.csv
+*.json
+*.sqlite
+*.zip
+*.xlsx
+*.xls
+
+# Text Files ------
+
+*.txt
+*.docx
+*.pdf
+
+# Music -----
+
+*.mp3
+
+# Images -----
+
+*.jpg
+*.png
