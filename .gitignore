@@ -12,6 +12,7 @@
 *.zip
 *.xlsx
 *.xls
+*.npz
 
 # Text Files ------
 
@@ -28,4 +29,7 @@
 *.jpg
 *.png
 
-lekha.com
+# Models ---
+
+*.h5
+
