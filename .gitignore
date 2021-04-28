@@ -27,6 +27,7 @@
 # Images -----
 
 *.jpg
+*.jpeg
 *.png
 
 # Models ---
