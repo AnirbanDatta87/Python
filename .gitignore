@@ -6,7 +6,7 @@
 
 # Data ------------
 
-*.csv
+*.csv 
 *.json
 *.sqlite
 *.zip
